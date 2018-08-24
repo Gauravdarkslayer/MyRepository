@@ -1,0 +1,628 @@
+Questions:
+301. Which of the following computer implemented binary numbers, perform calculations using electronics and implemented separate computation and memory for the first time?
+A) Mark I
+B) ABC
+C) Z3
+D) None of above
+
+302. FORTRAN is a programming language. What does FORTRAN stand for?
+A) File Translation
+B) Format Translation
+C) Formula Translation
+D) Floppy Translation
+
+303. Which of the following memories needs refreshing?
+A) SRAM
+B) DRAM
+C) ROM
+D) All of above
+
+304. Can you tell what passes into and out from the computer via its ports?
+A) Data
+B) Bytes
+C) Graphics
+D) Pictures
+
+Computer Fundamentals Download will be available under ‘Downloads’ menu.
+
+305. An output device that uses words or messages recorded on a magnetic medium to produce audio response is
+A) Magnetic tape
+B) Voice response unit
+C) Voice recognition unit
+D) Voice band
+
+306. Which of the items below are considered removable storage media?
+A) Removable hard disk cartridges
+B) (Magneto-optical) disk
+C) Flexible disks cartridges
+D) All of the above
+
+307. Which of the following is not purely output device?
+A) Screen
+B) Printer
+C) Speaker
+D) Plotter
+
+308. Who developed a mechanical device in the 17th century that could add, subtract, multiple, divide and find square roots?
+A) Napier
+B) Babbage
+C) Pascal
+D) Leibniz
+
+309. The first Macintosh computer was from
+A) First generation
+B) Second generation
+C) Third generation
+D) Fourth generation
+
+310. Which of the following is not a form of data?
+A) numbers and characters
+B) images
+C) sound
+D) none of above
+
+311. Which is not a computer classification?
+A) mainframe
+B) maxframe
+C) mini
+D) notebook
+
+312. The control unit of a microprocessor
+A) Stores data in the memory
+B) Accepts input data from keyboard
+C) Performs arithmetic/logic function
+D) None of above
+
+313. Which of the following is internal memory?
+A) Disks
+B) Pen Drives
+C) RAM
+D) CDs
+
+314. Which operation is not performed by computer
+A) Inputting
+B) Processing
+C) Controlling
+D) Understanding
+
+315. Floppy disks which are made from flexible plastic material are also called?
+A) Hard disks
+B) High-density disks
+C) Diskettes
+D) Templates
+
+316. The magnetic storage chip used to provide non-volatile direct access storage of data and that have no moving parts are known as
+A) Magnetic core memory
+B) Magnetic tape memory
+C) Magnetic disk memory
+D) Magnetic bubble memory
+
+317. A collection of related instructions organized for a common purpose is referred to as
+A) File
+B) Database
+C) Program
+D) None of above
+
+318. Plotter accuracy is measured in terms of repeatability and
+A) Buffer size
+B) Resolution
+C) Vertical dimensions
+D) Intelligence
+
+Visit MCQ Quiz menu for Computer Fundamentals Quiz
+
+319. Computer instructions written with the use of English words instead of binary machine code is called
+A) Mnemonics
+B) Symbolic code
+C) Gray codes
+D) Opcode
+
+320. Which language is directly understood by the computer without translation program?
+A) Machine language
+B) Assembly language
+C) High level language
+D) None of above
+
+321. On which aspect the analog computers are better than digital?
+A) Speed
+B) Accuracy
+C) Reliability
+D) Automatic
+
+322. Which of the following processors use RISC technology?
+A) 486dx
+B) Power PC
+C) 486sx
+D) 6340
+
+323. Which of the following machine was not invented by Charles Babbage?
+A) Tabulating Machine
+B) Analytical Engine
+C) Difference Engine
+D) Both C and D
+
+Computer Fundamental Exam Papers
+
+324. How many numbers could ENIAC store in its internal memory
+A) 100
+B) 20
+C) 80
+D) 40
+
+325. The subject of cybernetics deals with the science of
+A) Genetics
+B) Control and communication
+C) Molecular biology
+D) Biochemistry
+
+326. Why ABC is considered electro-mechanical computer?
+A) Because it was invented before electronic computers were developed
+B) Because there are wheels, drums, bars to rotate and move to produce result
+C) Because they use the flow of electrons in different component
+D) None of above
+
+327. Binary circuit elements have
+A) One stable state
+B) Two stable state
+C) Three stable state
+D) None of above
+
+328. Which of the following is used for manufacturing chips?
+A) Control bus
+B) Control unit
+C) Parity unit
+D) Semiconductor
+
+329. Which of the following is not a micro computer?
+A) Laptop PCs
+B) Tablet PCs
+C) Desktop PCs
+D) None of above
+
+330. The value of each bead in earth is 
+A) 1
+B) 3
+C) 5
+D) 7
+
+331. When did John Napier develop logarithm?
+A) 1416
+B) 1614
+C) 1641
+D) 1804
+
+332. Which of the following terms is the most closely related to main memory?
+A) Non volatile
+B) Permanent
+C) Control unit
+D) Temporary
+
+333. Which was the world’s first minicomputer and when was it introduced?
+A) PDP-I, 1958
+B) IBM System/36, 1960
+C) PDP-II, 1961
+D) VAX 11/780, 1962
+
+334. A group of magnetic tapes, videos or terminals usually under the control of one master is
+A) Cylinder
+B) Surface
+C) Track
+D) Cluster
+
+335. The word length of a computer is measured in
+A) Bytes
+B) Millimeters
+C) Meters
+D) Bits
+
+336. What type of memory is not directly addressable by the CPU and requires special softw3are called EMS (expanded memory specification)?
+A) Extended
+B) Expanded
+C) Base
+D) Conventional
+
+337. Which unit holds data permanently?
+A) Input unit
+B) Secondary storage unit
+C) Output Unit
+D) Primary Memory Unit
+
+338. Before a disk can be used to store data. It must be_______
+A) Formatted
+B) Reformatted
+C) Addressed
+D) None of the above
+
+339. Computer system comprises of major units
+A) input unit, output unit, control unit
+B) input unit, output unit, control unit and storage
+C) input unit, output unit, central processing unit and storage unit
+D) input, output and storage units
+
+340. The first general purpose electronic digital computer in the world was
+A) UNIVAC
+B) EDVAC
+C) ENIAC
+D) All of above
+
+341. Signals can be analog or digital and a computer that processes the both type of signals is known as
+A) Analog computer
+B) Digital Computer
+C) Hybrid Computer
+D) Mainframe Computer
+
+342. High level language is also called
+A) Problem oriented language
+B) Business oriented language
+C) Mathematically oriented language
+D) All of the above
+
+343. Human beings are referred to as Homosapinens, which device is called Silico Sapiens?
+A) Monitor
+B) Hardware
+C) Robot
+D) Computer
+
+344. Which of the following file organization is most efficient for a file with a high degree of file activity?
+A) Sequential
+B) ISAM
+C) VSAM
+D) B-Tree Index
+
+345. Which of the following is associated with error detector?
+A) Odd parity bit
+B) Even parity bit
+C) Both of the above
+D) None of above
+
+346. Magnetic tape can serve as
+A) Secondary storage media
+B) Output media
+C) Input media
+D) All of the above
+
+347. Which company is the biggest player in the microprocessor industry?
+A) Motorola
+B) IBM
+C) Intel
+D) AMD
+
+348. The first digital computer built with IC chips was known as
+A) IBM 7090
+B) Apple ? 1
+C) IBM System / 360
+D) VAX-10
+
+349. EBCDIC can code up to how many different characters?
+A) 256
+B) 16
+C) 32
+D) 64
+
+350. MICR stands for
+A) Magnetic Ink Character Reader
+B) Magnetic Ink Code Reader
+C) Magnetic Ink Cases Reader
+D) None
+
+351. Number crunchier is the informal name for
+A) Mini computer
+B) Super computer
+C) Microcomputer
+D) Mainframe computer
+
+352. RATS stand for
+A) Regression Analysis Time Series
+B) Regression Analysis Time Sharing
+C) Real Analysis Series
+D) All of above
+
+353. Which technology is used in Compact disks?
+A) Mechanical
+B) Electrical
+C) Electro Magnetic
+D) Laser
+
+354. Different components of the motherboard of a PC unit are linked together by sets of parallel electrical conducting lines. What are these lines called?
+A) Conductors
+B) Buses
+C) Connectors
+D) Consecutive
+
+355. Which is the first electronic digital computer?
+A) ENIAC
+B) MARK I
+C) Z3
+D) ABC
+
+356. Which of the following is a storage device?
+A) Tape
+B) Hard Disk
+C) Floppy Disk
+D) All of the above
+
+357. The metal disks, which are permanently housed in, sealed and contamination free containers are called
+A) Hard disks
+B) Floppy disk
+C) Winchester disk
+D) Flexible disk
+
+358. A computer program that converts an entire program into machine language is called a/an
+A) Interpreter
+B) Simulator
+C) Compiler
+D) Commander
+
+359. Intel corporation produces chips for which computers?
+A) IBM PCs
+B) Apple/Macintosh PCs
+C) Both of above
+D) None of above
+
+360. The first microprocessor built by the Intel corporation was called
+A) 8008
+B) 8080
+C) 4004
+D) 8800
+
+361. Which of the following is not a class of computers based on size?
+A) Mainframe Computers
+B) Mini Computers
+C) Micro Computers
+D) Super Computers
+
+362. Who invented EDSAC?
+A) John v. Neumann
+B) J.p. Eckert and John Mauchley
+C) Maurice Wilkes
+D) Howard Aiken
+
+363. EEPROM stands for
+A) Electrically Erasable Programmable Read Only Memory
+B) Electronic Erasable Programmable Read Only Memory
+C) Easily Erasable Programmable Read Only Memory
+D) Easily Erasable Programmable Read Only Memory
+
+364. Which of the following is a class of computers based on model?
+A) Digital Computer
+B) Hybrid Computers
+C) Analog Computers
+D) AT Computers
+
+365. What are the computers called that performs calculations and comparisons usually in the binary numbering system?
+A) Analog Computers
+B) Digital Computers
+C) Hybrid Computers
+D) None of above
+
+366. ASCII stands for
+A) American Standard Code for Information Interchange
+B) American Scientific Code for International Interchange
+C) American Standard Code for Intelligence Interchange
+D) American Scientific Code for Information Interchange
+
+367. The data recording format in most of the modern magnetic tape is
+A) 7-bit ASCII
+B) 7-bit EBCDIC
+C) 8-bit ASCII
+D) 8-bit EBCDIC
+
+368. Why ABC computer is called so?
+A) Because it was developed by Atanasoff and Berry
+B) Because it was thought to be the first computer so named with first alphabets of English
+C) Both of above are the reason to name the computer ABC
+D) None of above are true
+
+369. Who designed the first electronics computer ? ENIAC/
+A) Von Neumann
+B) Joseph M Jacquard
+C) J. P. Eckert and J. W. Mauchly
+D) All of above
+
+370. Central Processing Unit is combination of
+A) Control and storage
+B) Control and output unit
+C) Arithmetic logic and input unit
+D) Arithmetic logic and control unit
+
+371. IBM 1401 computer was
+A) Mainframe Computer
+B) Mini Computers
+C) Micro Computers
+D) None of above
+
+372. Time during which a job is processed by the computer is
+A) Delay times
+B) Real time
+C) Execution time
+D) Down time
+
+373. CD-ROM stands for
+A) Compactable Read Only Memory
+B) Compact Data Read Only Memory
+C) Compactable Disk Read Only Memory
+D) Compact Disk Read Only Memory
+
+374. Which unit converts user data into machine readable form?
+A) Input unit
+B) Output unit
+C) ALU
+D) Control Unit
+
+375. Which unit is known as nerve center of computer?
+A) ALU
+B) CU
+C) Memory
+D) Registers
+
+376. What does the disk drive of a computer do?
+A) Rotate the disk
+B) Read the disk
+C) Load a program from the disk into the memory
+D) Both b and c
+
+377. Access time is
+A) seek time + latency time
+B) seek time
+C) seek time
+D) latency time
+
+378. Who invented the microprocessor?
+A) Marcian E Huff
+B) Herman H Goldstein
+C) Joseph Jacquard
+D) All of above
+
+379. MICR stands for
+A) Magnetic Ink Character Reader
+B) Magnetic Ink Code Reader
+C) Magnetic Ink Case Reader
+D) None of the above
+
+380. The Width of a processor’s data path is measured in bits. Which of the following are common data paths?
+A) 8 bits
+B) 12 bits
+C) 16 bits
+D) 32 bits
+
+381. MSI is the abbreviation of
+A) Medium Scale Integrated
+B) Medium System Integrated
+C) Medium Scale Intelligent
+D) Medium System Intelligent
+
+382. IMB launched its first personal computer called IBM-PC in 1981. It had chips from Intel, disk drives from Tandon, operating system from Microsoft, the printer from Epson and the application software from everywhere. Can you name the country which contributed
+A) India
+B) China
+C) Germany
+D) Taiwan
+
+383. Which statement is valid about interpreter?
+A) It translates one instruction at a time
+B) Object code is saved for future use
+C) Repeated interpretation is not necessary
+D) All of above
+
+384. Easily reloctable language is
+A) Machine language
+B) Assembly language
+C) High level language
+D) Medium level language
+
+385. Which of the following memories needs refresh?
+A) SRAM
+B) DRAM
+C) ROM
+D) All of above
+
+386. Through which device the main components of the computer communicate with each other?
+A) Keyboard
+B) System Bus
+C) Monitor
+D) Memory
+
+387. What type of device is computer keyboard?
+A) Memory
+B) Output
+C) Storage
+D) Input
+
+388. Which is the limitation of high level language?
+A) Lower efficiency
+B) Machine dependence
+C) machine level coding
+D) None of above
+
+389. An example of a digital device can be
+A) Digital clock
+B) Automobile speed meter
+C) Clock with a dial and two hands
+D) All of the above
+
+390. Which of the following is not true?
+A) Transistors are much smaller
+B) Transistors produce low heat
+C) Transistors were less reliable
+D) Transistors were used in radios and other electronic devices
+
+391. A characteristic of card systems is:
+A) Slowness in processing data
+B) Using cards as records of transactions
+C) Needing a larger DP staff
+D) All of the above
+
+392. The full form of EEPROM is
+A) Electrically Erasable Programmable Read Only Memory
+B) Easily Erasable Programmable Read Only Memory
+C) Electronic Erasable Programmable Read Only Memory
+D) None of the above
+
+393. The original ASCII code used__bits of each byte, reserving that last bit for error checking
+A) 5
+B) 6
+C) 7
+D) 8
+
+394. A computer programmer
+A) Does all the thinking for a computer
+B) Can enter input data quickly
+C) Can operate all types of computer equipments
+D) Can draw only flowchart
+
+395. Fifth generation computer is also known as
+A) Knowledge information processing system
+B) Very large scale integration (VLSI)
+C) Both of above
+D) None of above
+
+396. The commonly used standard data code to represent alphabetical, numerical and punctuation characters used in electronic data processing system is called
+A) ASCII
+B) EBCDIC
+C) BCD
+D) All of above
+
+397. Which of the following have low failure rate?
+A) mechanical devices
+B) electronic devices
+C) electro-mechanical devices
+D) None of above
+
+398. Which of the following memories need refresh?
+A) SRAM
+B) DRAM
+C) ROM
+D) All of the above
+
+399. A typical personal computer used for business purposes would have__ of RAM.
+A) 4 KB
+B) 16 K
+C) 64 K
+D) 256 K
+
+400. The ALU of a computer normally contains a number of high speed storage element called
+A) Semiconductor memory
+B) Registers
+C) Hard disks
+D) Magnetic disk
+
+Answers to 4th Set of Computer Fundamental MCQs
+Click the Facebook Like button to show your love to MCQ Sets. Help to spread the good thing!
+[l2g]
+Thank you for liking Computer Fundamental MCQ Questions page.
+
+ 
+
+[/l2g]
+
+Following are the correct answers:
+
+301-B	302-C	303-B	304-A	305-B	306-D	307-A	308-D	309-D	310-D
+311-B	312-D	313-C	314-D	315-C	316-D	317-C	318-B	319-B	320-A
+321-B	322-B	323-A	324-B	325-B	326-B	327-B	328-D	329-D	330-A
+331-B	332-D	333-A	334-D	335-D	336-B	337-B	338-A	339-C	340-A
+341-C	342-D	343-D	344-A	345-C	346-A	347-C	348-C	349-A	350-A
+351-b	352-A	353-D	354-B	355-D	356-D	357-C	358-C	359-A	360-C
+361-D	362-C	363-A	364-D	365-B	366-A	367-D	368-B	369-C	370-D
+371-A	372-C	373-D	374-A	375-A	376-D	377-A	378-A	379-A	380-A
+381-A	382-D	383-A	384-B	385-B	386-B	387-D	388-A	389-A	390-C
+391-D	392-A	393-C	394-A	395-A	396-D	397-B	398-B	399-D	400-B
