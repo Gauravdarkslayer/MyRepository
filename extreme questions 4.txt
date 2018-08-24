@@ -1,7 +1,7 @@
 Questions:
 301. Which of the following computer implemented binary numbers, perform calculations using electronics and implemented separate computation and memory for the first time?
 A) Mark I
-B) ABC
+B) ABC nljkbkbhjjbkugku
 C) Z3
 D) None of above
 hbkhkjhlkipp
@@ -23,7 +23,7 @@ B) Bytes
 C) Graphics
 D) Pictures
 
-Computer Fundamentals Download will be available under ‘Downloads’ menu.
+Computer Fundamentals Download will be available under â€˜Downloadsâ€™ menu.
 
 305. An output device that uses words or messages recorded on a magnetic medium to produce audio response is
 A) Magnetic tape
@@ -197,7 +197,7 @@ B) Permanent
 C) Control unit
 D) Temporary
 
-333. Which was the world’s first minicomputer and when was it introduced?
+333. Which was the worldâ€™s first minicomputer and when was it introduced?
 A) PDP-I, 1958
 B) IBM System/36, 1960
 C) PDP-II, 1961
@@ -479,7 +479,7 @@ B) Magnetic Ink Code Reader
 C) Magnetic Ink Case Reader
 D) None of the above
 
-380. The Width of a processor’s data path is measured in bits. Which of the following are common data paths?
+380. The Width of a processorâ€™s data path is measured in bits. Which of the following are common data paths?
 A) 8 bits
 B) 12 bits
 C) 16 bits
