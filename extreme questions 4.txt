@@ -1,10 +1,10 @@
-Questions:
+my7tgtghQuestions:
 301. Which of the following computer implemented binary numbers, perform calculations using electronics and implemented separate computation and memory for the first time?
 A) Mark I
 B) ABC
 C) Z3
 D) None of above
-
+hbkhkjhlkipp
 302. FORTRAN is a programming language. What does FORTRAN stand for?
 A) File Tr
 B) Format Translation
