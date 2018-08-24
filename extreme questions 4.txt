@@ -6,7 +6,7 @@ C) Z3
 D) None of above
 
 302. FORTRAN is a programming language. What does FORTRAN stand for?
-A) File Translation
+A) File Tr
 B) Format Translation
 C) Formula Translation
 D) Floppy Translation
